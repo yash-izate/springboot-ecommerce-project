@@ -1,13 +1,13 @@
-package com.ecommerce.sbecom;
+package com.ecommerce.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootEcommerceProjectApplication {
+public class SbEcomApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootEcommerceProjectApplication.class, args);
+        SpringApplication.run(SbEcomApplication.class, args);
     }
 
 }
